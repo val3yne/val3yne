@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my first SaaS<br>I'm currently learning about DSA & frameworks
+I'm currently learning about DSA & frameworks
 
 
 # 💻 Tech Stack:
