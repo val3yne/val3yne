@@ -10,7 +10,7 @@ Right now I’m focused on **DSA**, building projects with **Java**, and getting
 ##  Tech Stack
 **Languages:** `Java` `Python` `C` `HTML` `CSS`  
 **Backend:** `Spring Boot` `REST API`  
-**Database:** `PostgreSQL` `Oracle SQL`  
+**Database:** `PostgreSQL` `Oracle SQL` 'OpenSSL' 
 **Tools/Cloud:** `Git` `Cloudflare`
 
 
