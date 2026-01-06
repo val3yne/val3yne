@@ -5,6 +5,7 @@ Right now I’m focused on **DSA**, building projects with **Java**, and getting
 -  Learning: **DSA, Spring Boot, REST APIs, Database design**
 -  Open to: **collabs, internship opportunities, open-source**
 -  Interested in: **Machine Learning & Artificial Intelligence , Data Analysis & Visualization , AI-powered Web Applications**
+-  Currently working on: **Hotel Booking System** with database integration
 
 ##  Tech Stack
 **Languages:** `Java` `Python` `C` `HTML` `CSS`  
