@@ -1,4 +1,4 @@
-## 👋 About Me
+##  About Me
 I'm Su ,  a student focused on **software development** and **data-driven thinking**.  
 Right now I’m focused on **DSA**, building projects with **Java**, and getting faimiliar with **SQL/PostgreSQL**.
 
@@ -6,7 +6,7 @@ Right now I’m focused on **DSA**, building projects with **Java**, and getting
 -  Open to: **collabs, internship opportunities, open-source**
 -  Interested in: **Machine Learning & Artificial Intelligence , Data Analysis & Visualization , AI-powered Web Applications**
 
-## 🧰 Tech Stack
+##  Tech Stack
 **Languages:** `Java` `Python` `C` `HTML` `CSS`  
 **Backend:** `Spring Boot` `REST API`  
 **Database:** `PostgreSQL` `Oracle SQL`  
