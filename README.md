@@ -1,6 +1,6 @@
 ## 👋 About Me
 I'm Su ,  a student focused on **software development** and **data-driven thinking**.  
-Right now I’m sharpening my **DSA**, building projects with **Java + Spring**, and getting comfy with **SQL/PostgreSQL**.
+Right now I’m focused on **DSA**, building projects with **Java**, and getting faimiliar with **SQL/PostgreSQL**.
 
 -  Learning: **DSA, Spring Boot, REST APIs, Database design**
 -  Open to: **collabs, internship opportunities, open-source**
