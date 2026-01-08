@@ -11,6 +11,7 @@ Right now I’m focused on **DSA**, building projects with **Java**, and getting
 **Languages:** `Java` `Python` `C` `HTML` `CSS`  
 **Backend:** `Spring Boot` `REST API`  
 **Database:** `PostgreSQL` 
+
 **Tools/Cloud:** `Git` `Cloudflare`  
 
 
